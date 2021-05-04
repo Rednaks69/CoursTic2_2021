@@ -1,0 +1,18 @@
+#firstHeader {
+  margin-left: 10px;
+  padding-left: 10px;
+  font-size: 22pt;
+  font-weight: bolder;
+  text-align: left;
+  border-left-style: solid;
+  border-left-width: 10pt;
+  border-left-color: chocolate;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#jscontainer {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: bolder;
+  color: royalblue;
+  font-size: 18pt;
+}
